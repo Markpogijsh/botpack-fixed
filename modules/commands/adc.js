@@ -1,4 +1,4 @@
-const admin = "100036956043695";
+const admin = "61579032975023";
 
 module.exports.config = {
   name: "adc",
