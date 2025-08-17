@@ -26,8 +26,8 @@
     "resend.js"
   ],
   "eventDisabled": [],
-  "OWNER": "OWNER OF BOT",
-  "BOTNAME": "BOTNAME HERE",
+  "OWNER": "Keijo",
+  "BOTNAME": "Keijo",
   "PREFIX": "?",
   "ADMINBOT": [
     "UID HERE ADMIN",
@@ -63,16 +63,16 @@
     "cooldownTime": 1200000
   },
   "help": {
-    "autoUnsend": true,
+    "autoUnsend": false,
     "delayUnsend": 60
   },
   "adminUpdate": {
-    "autoUnsend": true,
+    "autoUnsend": false,
     "sendNoti": true,
     "timeToUnsend": 10
   },
   "adminNoti": {
-    "autoUnsend": true,
+    "autoUnsend": false,
     "sendNoti": true,
     "timeToUnsend": 10
   },
@@ -87,7 +87,7 @@
     "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
   },
   "menu": {
-    "autoUnsend": true,
+    "autoUnsend": false,
     "delayUnsend": 60
   }
 }
