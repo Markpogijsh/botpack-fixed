@@ -28,9 +28,9 @@
   "eventDisabled": [],
   "OWNER": "Keijo",
   "BOTNAME": "Keijo",
-  "PREFIX": "?",
+  "PREFIX": ".",
   "ADMINBOT": [
-    "UID HERE ADMIN",
+    "61579032975023",
     ""
   ],
   "DESIGN": {
